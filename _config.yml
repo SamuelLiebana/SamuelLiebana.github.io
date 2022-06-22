@@ -31,7 +31,7 @@ twitter_username: SamuelLiebana
 github_username:  SamuelLiebana
 
 # Build settings
-theme: minima
+theme: dinky
 plugins:
   - jekyll-feed
 
